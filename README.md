@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarai</h1>
+<h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">💻 Software Engineering Student from El Salvador 🇸🇻</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ### 🌸 About Me
 
 * 🎓 Studying **Software Engineering & Digital Business**
-* 💻 Currently learning **C++, HTML, CSS, and JavaScript**
+* 💻 Currently learning **C++ and pythont**
 * 🚀 Interested in **Web Development and Software Development**
 * 🎨 I enjoy combining **technology and creativity**
 * 🌱 Always looking for opportunities to learn and improve
@@ -37,6 +37,7 @@
 ### 🌷 Favorite Quote
 
 > "Success is the sum of small efforts repeated day after day."
+> "Everything you lose is a step you take"
 
 ---
 
